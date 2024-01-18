@@ -1,0 +1,15 @@
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/bin/Debug/net7.0/SudokuSolver
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/bin/Debug/net7.0/SudokuSolver.deps.json
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/bin/Debug/net7.0/SudokuSolver.runtimeconfig.json
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/bin/Debug/net7.0/SudokuSolver.dll
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/bin/Debug/net7.0/SudokuSolver.pdb
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.csproj.AssemblyReference.cache
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.AssemblyInfoInputs.cache
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.AssemblyInfo.cs
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.dll
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/refint/SudokuSolver.dll
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.pdb
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/SudokuSolver.genruntimeconfig.cache
+/Users/gogitakupatadze/RiderProjects/SudokuSolver/SudokuSolver/obj/Debug/net7.0/ref/SudokuSolver.dll
